@@ -1,5 +1,5 @@
-Interactive map. 
-Mapbox and Google map
-discover different parts of the map by following directions
-popups
-check and unchecks places
+To start the server, run `nodemon server.js`
+
+Modify the `server.js` file to add endpoints
+
+The frontend code goes in the `/src` directory
